@@ -1,0 +1,2 @@
+# productSearchEngine
+For a given text query search the corpus of the provided documents and return the most relevant document. Expose the module as API which takes a text input and returns the most relevant document. API should also have a parameter to get top n relevant documents instead of just top 1. The dataset will contain 2 fields, text and a unique id, return both the fields along with the similarity score in the API response.
